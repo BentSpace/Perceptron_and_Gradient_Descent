@@ -1,3 +1,5 @@
+A class project building a perceptron and gradient descent from scratch.
+
 perceptron.py
 
 perceptron_train(X, Y)
